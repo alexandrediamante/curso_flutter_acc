@@ -46,7 +46,7 @@ class MeuCorpoState extends State<MeuCorpo> {
       if (contador > 0) {
         contador--;
       }
-      if (contador <= 0) {
+      if (contador == 0) {
         _atualizarTexto('Valor não pode ser menor que Zero, Verifique!');
       }
     });
@@ -76,10 +76,11 @@ class MeuCorpoState extends State<MeuCorpo> {
       backgroundColor: Colors.black,
       body: Container(
         decoration: const BoxDecoration(
-            image: DecorationImage(
-          image: AssetImage('assets/images/Flutter01.png'),
-          fit: BoxFit.cover,
-        )),
+          image: DecorationImage(
+            image: AssetImage('assets/images/Flutter01.png'),
+            fit: BoxFit.cover,
+          ),
+        ),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -118,7 +119,8 @@ class MeuCorpoState extends State<MeuCorpo> {
                       backgroundColor: Colors.yellow,
                       fixedSize: const Size(100, 100),
                       shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(24)),
+                        borderRadius: BorderRadius.circular(24),
+                      ),
                     ),
                     child: const Text(
                       'Saiu',
@@ -136,7 +138,8 @@ class MeuCorpoState extends State<MeuCorpo> {
                       backgroundColor: Colors.yellow,
                       fixedSize: const Size(100, 100),
                       shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(24)),
+                        borderRadius: BorderRadius.circular(24),
+                      ),
                     ),
                     child: const Text(
                       'Entrou',
