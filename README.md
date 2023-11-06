@@ -68,11 +68,11 @@ Este projeto é disponibilizado sob a licença [Inserir Nome da Licença]. Consu
 
 ## Autor
 
-- [Alexandre Diamante](https://github.com/alexandrediamante) - Desenvolvedor
+- [Alexandre Diamante](https://github.com/alexandrediamante) / Eleuterio, Adriano J.- Desenvolvedor
 
 ## Agradecimentos
 
-Agradecemos a [Prof. Julio/Accenture-BR] pela contribuição ou suporte.
+Agradecemos a [Prof. Julio/Accenture-BR] pela contribuição.
 
 ---
 
