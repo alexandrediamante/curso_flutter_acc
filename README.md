@@ -8,7 +8,7 @@ Certamente! Aqui está uma documentação detalhada para o seu aplicativo Curso_
 
 Este aplicativo Flutter foi desenvolvido para monitorar a capacidade de um local específico, contando a entrada e saída de pessoas. O limite máximo permitido é de 20 pessoas. O objetivo é fornecer uma indicação clara sobre a lotação do local.
 
-Desenvolvedor: [Alexandre Diamante](https://github.com/alexandrediamante/curso_flutter_acc)
+Desenvolvedor: [Alexandre Diamante](https://github.com/alexandrediamante/curso_flutter_acc) / Eleuterio, Adriano J.
 
 ## Funcionalidades Principais
 
