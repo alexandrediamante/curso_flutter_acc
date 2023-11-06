@@ -1,8 +1,4 @@
-Certamente! Aqui está uma documentação detalhada para o seu aplicativo Curso_Flutter_Acc:
-
----
-
-# Curso_Flutter_Acc
+# Curso_Flutter_Acc - Exercicio 1
 
 ## Descrição
 
