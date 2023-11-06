@@ -60,7 +60,7 @@ Contribuições são bem-vindas! Se deseja contribuir com este projeto, siga est
 
 ## Licença
 
-Este projeto é disponibilizado sob a licença [Gratuita]. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto é disponibilizado sob a licença [Gratuita].
 
 ## Autor
 
@@ -68,7 +68,7 @@ Este projeto é disponibilizado sob a licença [Gratuita]. Consulte o arquivo LI
 
 ## Agradecimentos
 
-Agradecemos a [Prof. Julio/Accenture-BR] pela contribuição.
+Agradecemos a [Prof. Vieira Ferreira, Júlio/Accenture-BR] pela contribuição.
 
 ---
 
