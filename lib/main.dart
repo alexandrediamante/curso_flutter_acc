@@ -99,9 +99,11 @@ class MeuCorpoState extends State<MeuCorpo> {
                   ),
                   Text(
                     '$contador',
-                    style: const TextStyle(
-                      fontSize: 50,
-                      color: Colors.white,
+                    style: TextStyle(
+                      fontSize: 45,
+                      color: contador >= 20
+                          ? Colors.red
+                          : Colors.white, // Altera a cor dinamicamente
                     ),
                     textAlign: TextAlign.left,
                   ),
