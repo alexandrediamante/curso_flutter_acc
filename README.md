@@ -64,7 +64,7 @@ Contribuições são bem-vindas! Se deseja contribuir com este projeto, siga est
 
 ## Licença
 
-Este projeto é disponibilizado sob a licença [Inserir Nome da Licença]. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto é disponibilizado sob a licença [Gratuita]. Consulte o arquivo LICENSE para mais detalhes.
 
 ## Autor
 
