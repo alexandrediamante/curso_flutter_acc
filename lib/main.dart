@@ -59,7 +59,7 @@ class MeuCorpoState extends State<MeuCorpo> {
       ),
     );
   }
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -67,7 +67,10 @@ class MeuCorpoState extends State<MeuCorpo> {
         title: const Text('Contador Entrada'),
         centerTitle: true,
         backgroundColor: Colors.yellow,
-        titleTextStyle: TextStyle(fontSize: 23, color: Colors.blueAccent),
+        titleTextStyle: const TextStyle(
+          fontSize: 23,
+          color: Colors.blueAccent,
+        ),
       ),
       backgroundColor: Colors.black,
       body: Container(
