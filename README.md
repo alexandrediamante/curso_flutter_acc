@@ -1,4 +1,4 @@
-# Curso_Flutter_Acc - Exercicio 1
+# Curso_Flutter_Acc - Exercicio 1 (Contador de Entrada)
 
 ## Descrição
 
